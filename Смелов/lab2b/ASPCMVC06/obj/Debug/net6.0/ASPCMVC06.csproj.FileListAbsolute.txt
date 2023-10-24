@@ -1,0 +1,7 @@
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.GeneratedMSBuildEditorConfig.editorconfig
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.AssemblyInfoInputs.cache
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.AssemblyInfo.cs
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.csproj.CoreCompileInputs.cache
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.MvcApplicationPartsAssemblyInfo.cache
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.RazorAssemblyInfo.cache
+E:\5сем\Смелов\lab2b\ASPCMVC06\obj\Debug\net6.0\ASPCMVC06.RazorAssemblyInfo.cs

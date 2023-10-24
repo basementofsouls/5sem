@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   
+</div>
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h1>Calculator</h1>
+<form id="calculatorForm">
+    <label for="x">X:</label>
+    <input type="number" id="x" name="x" required>
+    <br>
+    <label for="y">Y:</label>
+    <input type="number" id="y" name="y" required>
+    <br>
+    <input type="submit" value="Calculate">
+</form>
+<div id="result"></div>
+
+<script>
+    document.getElementById("calculatorForm").addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        var x = document.getElementById("x").value;
+        var y = document.getElementById("y").value;
+
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "/Calculator/Calculate", true);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+                if (xhr.status === 200) {
+                    document.getElementById("result").innerHTML = "Result: " + xhr.responseText;
+                } else {
+                    document.getElementById("result").innerHTML = "Error";
+                }
+            }
+        };
+
+        xhr.send("x=" + x + "&y=" + y);
+    });
+</script>
+

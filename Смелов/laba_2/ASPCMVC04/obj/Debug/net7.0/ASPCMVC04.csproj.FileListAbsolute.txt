@@ -1,0 +1,61 @@
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\appsettings.Development.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\appsettings.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.staticwebassets.runtime.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.exe
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.deps.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.runtimeconfig.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.dll
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.pdb
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.csproj.AssemblyReference.cache
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.GeneratedMSBuildEditorConfig.editorconfig
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.AssemblyInfoInputs.cache
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.AssemblyInfo.cs
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.csproj.CoreCompileInputs.cache
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.MvcApplicationPartsAssemblyInfo.cache
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.RazorAssemblyInfo.cache
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.RazorAssemblyInfo.cs
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.ASPCMVC04.Microsoft.AspNetCore.StaticWebAssets.props
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.build.ASPCMVC04.props
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASPCMVC04.props
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASPCMVC04.props
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets.pack.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets.build.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets.development.json
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\scopedcss\bundle\ASPCMVC04.styles.css
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\scopedcss\projectbundle\ASPCMVC04.bundle.scp.css
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.dll
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\refint\ASPCMVC04.dll
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.pdb
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.genruntimeconfig.cache
+E:\student\learn\3_course\1_sem\СТРWП\New\ASPCMVC04\obj\Debug\net7.0\ref\ASPCMVC04.dll
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\appsettings.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.staticwebassets.runtime.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.exe
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.deps.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.runtimeconfig.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.dll
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\bin\Debug\net7.0\ASPCMVC04.pdb
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.AssemblyInfo.cs
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.RazorAssemblyInfo.cache
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.RazorAssemblyInfo.cs
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.ASPCMVC04.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.build.ASPCMVC04.props
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASPCMVC04.props
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASPCMVC04.props
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\scopedcss\bundle\ASPCMVC04.styles.css
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\scopedcss\projectbundle\ASPCMVC04.bundle.scp.css
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.dll
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\refint\ASPCMVC04.dll
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.pdb
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ASPCMVC04.genruntimeconfig.cache
+C:\Users\Acer\Downloads\Telegram Desktop\New\New\ASPCMVC04\obj\Debug\net7.0\ref\ASPCMVC04.dll
