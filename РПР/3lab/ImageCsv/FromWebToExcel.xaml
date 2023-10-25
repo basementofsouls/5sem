@@ -1,0 +1,213 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="860,2341.6" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:ueab="clr-namespace:UiPath.Excel.Activities.Business;assembly=UiPath.Excel.Activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>UiPath.Excel</x:String>
+      <x:String>UiPath.Excel.Activities.Business</x:String>
+      <x:String>UiPath.Excel.Model</x:String>
+      <x:String>UiPath.MicrosoftOffice365.Activities.Files.Enums</x:String>
+      <x:String>UiPath.Shared.Activities.Utils</x:String>
+      <x:String>UiPath.MicrosoftOffice365.Files.Models</x:String>
+      <x:String>UiPath.Platform.ResourceHandling</x:String>
+      <x:String>UiPath.MicrosoftOffice365.Activities.Excel.Enums</x:String>
+      <x:String>UiPath.MicrosoftOffice365.Activities.Excel</x:String>
+      <x:String>UiPath.Shared.Activities.ConnectionService.Contracts</x:String>
+      <x:String>UiPath.MicrosoftOffice365.Activities</x:String>
+      <x:String>Microsoft.Graph</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.Graph</AssemblyReference>
+      <AssemblyReference>Microsoft.Graph.Core</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>Microsoft.Win32.Primitives</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>netstandard</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.MicrosoftOffice365</AssemblyReference>
+      <AssemblyReference>UiPath.MicrosoftOffice365.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Workflow</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="761.6,2276.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap:VirtualizedContainerService.HintSize="699.2,2164.8" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:String" Name="Number" />
+        <Variable x:TypeArguments="x:String" Name="EmailToSend" />
+        <Variable x:TypeArguments="x:String" Default="https://www.fakenamegenerator.com" Name="URL" />
+        <Variable x:TypeArguments="sd:DataTable" Name="ExtractDataTable" />
+      </Sequence.Variables>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <ui:InputDialog Options="{x:Null}" OptionsString="{x:Null}" DisplayName="Input Dialog" sap:VirtualizedContainerService.HintSize="636.8,241.6" sap2010:WorkflowViewState.IdRef="InputDialog_1" IsPassword="False" Label="Количество" Title="Введите количество сотрудников">
+        <ui:InputDialog.Result>
+          <OutArgument x:TypeArguments="x:String">[Number]</OutArgument>
+        </ui:InputDialog.Result>
+      </ui:InputDialog>
+      <ui:BuildDataTable DataTable="[ExtractDataTable]" DisplayName="Build Data Table" sap:VirtualizedContainerService.HintSize="636.8,60" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;              &lt;xs:sequence&gt;&#xA;                &lt;xs:element name=&quot;FullName&quot; msdata:Caption=&quot;&quot; minOccurs=&quot;0&quot;&gt;&#xA;                  &lt;xs:simpleType&gt;&#xA;                    &lt;xs:restriction base=&quot;xs:string&quot;&gt;&#xA;                      &lt;xs:maxLength value=&quot;100&quot; /&gt;&#xA;                    &lt;/xs:restriction&gt;&#xA;                  &lt;/xs:simpleType&gt;&#xA;                &lt;/xs:element&gt;&#xA;              &lt;/xs:sequence&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;" />
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Chrome: Действия – использование приложения/браузера" sap:VirtualizedContainerService.HintSize="636.8,1316.8" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="ed57b8d3-969f-4ece-a427-4df535c51bf2" Version="V2">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Генерация фамилий сотрудников и записать их в таблицу" sap:VirtualizedContainerService.HintSize="603.2,1100" sap2010:WorkflowViewState.IdRef="Sequence_3">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <DoWhile DisplayName="Do While" sap:VirtualizedContainerService.HintSize="540.8,984.8" sap2010:WorkflowViewState.IdRef="DoWhile_1">
+                <DoWhile.Variables>
+                  <Variable x:TypeArguments="x:Int32" Default="0" Name="Val" />
+                  <Variable x:TypeArguments="x:String" Name="FullName" />
+                </DoWhile.Variables>
+                <DoWhile.Condition>[Val&lt;cint(Number)]</DoWhile.Condition>
+                <Sequence sap:VirtualizedContainerService.HintSize="496,820.8" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <Assign sap:VirtualizedContainerService.HintSize="433.6,82.4" sap2010:WorkflowViewState.IdRef="Assign_1">
+                    <Assign.To>
+                      <OutArgument x:TypeArguments="x:Int32">[Val]</OutArgument>
+                    </Assign.To>
+                    <Assign.Value>
+                      <InArgument x:TypeArguments="x:Int32">[Val+1]</InArgument>
+                    </Assign.Value>
+                  </Assign>
+                  <uix:NGetText DisplayName="Get Text 'Jeffrey J. Clinton'" sap:VirtualizedContainerService.HintSize="433.6,157.6" sap2010:WorkflowViewState.IdRef="NGetText_1" ScopeIdentifier="ed57b8d3-969f-4ece-a427-4df535c51bf2" TextString="[FullName]" Version="V3">
+                    <uix:NGetText.Target>
+                      <uix:TargetAnchorable BrowserURL="https://www.fakenamegenerator.com/" CvType="AnyWordGroup" DesignTimeRectangle="646, 633, 675, 23" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Jeffrey J. Clinton'" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='' /&gt;" Guid="b396f04b-ccbb-480d-9b91-40cb34a223fb" InformativeScreenshot="2ef1adf6d117d7a96f829f890322d45d.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive" />
+                    </uix:NGetText.Target>
+                  </uix:NGetText>
+                  <ui:AddDataRow DataRow="{x:Null}" ArrayRow="[{FullName}]" DataTable="[ExtractDataTable]" DisplayName="Add Data Row" sap:VirtualizedContainerService.HintSize="433.6,188" sap2010:WorkflowViewState.IdRef="AddDataRow_1" />
+                  <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Generate'" sap:VirtualizedContainerService.HintSize="433.6,157.6" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="ed57b8d3-969f-4ece-a427-4df535c51bf2" Version="V3">
+                    <uix:NClick.Target>
+                      <uix:TargetAnchorable BrowserURL="https://www.fakenamegenerator.com/" CvElementArea="523, 548, 92, 31" CvTextArea="531, 556, 76, 16" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="526, 550, 88, 28" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Generate'" FullSelectorArgument="&lt;webctrl id='genbtn' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='genbtn' tag='INPUT' type='submit' class='button red' aaname='Generate' check:text='Generate' /&gt;" Guid="0648c724-c428-4bae-b378-301fe42d9284" ImageBase64="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" InformativeScreenshot="00b1b55646e307db9c6e7e3dbe2cf583.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector, Image, CV" Version="V2" Visibility="Interactive" />
+                    </uix:NClick.Target>
+                  </uix:NClick>
+                </Sequence>
+              </DoWhile>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="291, 447, 1740, 1030" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAETSURBVDhPtdM/S0JRHMZxtURJQQT/QJgGLU1O0ktw6A00uglN7b4CA1cnB0WNlgoHtTfgG0hchMLBoV2aRNDvE8frn9RuiQc+nMM55z73d++51zFOR6b7mAe8o2JDeWn8ASug4rDR2OeDB07UsQiACwH4zX6tzedOcIY27uHGSoBKC6KBIo5NQBgtFHCJHnSh1/QrAdrcxyvcJuAUA7xAVVwjhR+P8FvAM+LoogQ92p8CnnCOIR5xmAC9xDd04DMBF/hEDQlsDdAxHqGKL9wiiTwmuIOq2R5g7ngFHdUYI9M3EUUMuwPUGKvsLHK4QcjM+5FBGhu/RE06v1PW2voaY1XwACtAP4YS7dLFOh0r4J8i0xkQTbpIouAIwAAAAABJRU5ErkJggg==" InformativeScreenshot="9509bb5f1410ff40ff1e96c3e891fae0.jpg" Selector="&lt;html app='chrome.exe' title='Действия – использование приложения/браузера' /&gt;" Title="Действия – использование приложения/браузера" Url="[“https://www.fakenamegenerator.com”]" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+      <ueab:ExcelProcessScopeX DisplayAlerts="{x:Null}" ExistingProcessAction="{x:Null}" FileConflictResolution="{x:Null}" LaunchMethod="{x:Null}" LaunchTimeout="{x:Null}" MacroSettings="{x:Null}" ProcessMode="{x:Null}" ShowExcelWindow="{x:Null}" DisplayName="Excel Process Scope" sap:VirtualizedContainerService.HintSize="636.8,314.4" sap2010:WorkflowViewState.IdRef="ExcelProcessScopeX_2">
+        <ueab:ExcelProcessScopeX.Body>
+          <ActivityAction x:TypeArguments="ui:IExcelProcess">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="ui:IExcelProcess" Name="ExcelProcessScopeTag" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Сделать" sap:VirtualizedContainerService.HintSize="449.6,228" sap2010:WorkflowViewState.IdRef="Sequence_7">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:WriteRange AddHeaders="False" DataTable="[ExtractDataTable]" DisplayName="Write Range Workbook" sap:VirtualizedContainerService.HintSize="387.2,116" sap2010:WorkflowViewState.IdRef="WriteRange_3" SheetName="Лист1" StartingCell="A1" WorkbookPath="ExtrData.xlsx" />
+            </Sequence>
+          </ActivityAction>
+        </ueab:ExcelProcessScopeX.Body>
+      </ueab:ExcelProcessScopeX>
+    </Sequence>
+  </Sequence>
+</Activity>

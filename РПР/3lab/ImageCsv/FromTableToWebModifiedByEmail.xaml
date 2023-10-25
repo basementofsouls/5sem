@@ -1,0 +1,227 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="644,2772" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>UiPath.Excel</x:String>
+      <x:String>UiPath.Excel.Activities</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>UiPath.DataTableUtilities</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>Microsoft.Win32.Primitives</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>NPOI</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Data.SqlClient</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.ViewModels</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Workflow</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="654.4,2707.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap:VirtualizedContainerService.HintSize="592,2595.2" sap2010:WorkflowViewState.IdRef="Sequence_4">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:Double" Default="0" Name="Sum" />
+        <Variable x:TypeArguments="x:Double" Default="0" Name="Price" />
+      </Sequence.Variables>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application: Заказ товаров - Opera" sap:VirtualizedContainerService.HintSize="529.6,2357.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="22f1c24c-0398-4873-861d-a25e98ded6e2" Version="V2" WindowResize="Maximize">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Сделать" sap:VirtualizedContainerService.HintSize="496,2066.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+              <Sequence.Variables>
+                <Variable x:TypeArguments="x:String" Name="Company" />
+                <Variable x:TypeArguments="x:String" Name="Goods" />
+                <Variable x:TypeArguments="x:String" Name="UserPass" />
+                <Variable x:TypeArguments="x:String" Name="UserEmail" />
+                <Variable x:TypeArguments="sd:DataTable" Name="DtTable" />
+              </Sequence.Variables>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:MaximizeWindow Window="{x:Null}" DisplayName="Maximize Window" sap:VirtualizedContainerService.HintSize="433.6,24.8" sap2010:WorkflowViewState.IdRef="MaximizeWindow_1" />
+              <ui:ReadRange AddHeaders="True" DataTable="[DtTable]" DisplayName="Read Range Workbook" sap:VirtualizedContainerService.HintSize="433.6,88" sap2010:WorkflowViewState.IdRef="ReadRange_1" SheetName="Лист1" WorkbookPath="Firms.xlsx">
+                <ui:ReadRange.Range>
+                  <InArgument x:TypeArguments="x:String">
+                    <Literal x:TypeArguments="x:String" Value="" />
+                  </InArgument>
+                </ui:ReadRange.Range>
+              </ui:ReadRange>
+              <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[DtTable]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="433.6,1636" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+                <ui:ForEachRow.Body>
+                  <ActivityAction x:TypeArguments="sd:DataRow">
+                    <ActivityAction.Argument>
+                      <DelegateInArgument x:TypeArguments="sd:DataRow" Name="row" />
+                    </ActivityAction.Argument>
+                    <Sequence DisplayName="Текст" sap:VirtualizedContainerService.HintSize="376.8,1448" sap2010:WorkflowViewState.IdRef="Sequence_3">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <ui:GetRowItem Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="Товары" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="333.6,188" sap2010:WorkflowViewState.IdRef="GetRowItem_1" Row="[row]">
+                        <ui:GetRowItem.Value>
+                          <OutArgument x:TypeArguments="x:String">[Goods]</OutArgument>
+                        </ui:GetRowItem.Value>
+                      </ui:GetRowItem>
+                      <ui:GetRowItem Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="Фирмы" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="333.6,188" sap2010:WorkflowViewState.IdRef="GetRowItem_2" Row="[row]">
+                        <ui:GetRowItem.Value>
+                          <OutArgument x:TypeArguments="x:String">[Company]</OutArgument>
+                        </ui:GetRowItem.Value>
+                      </ui:GetRowItem>
+                      <ui:GetRowItem Column="{x:Null}" ColumnIndex="{x:Null}" ColumnName="Цена" DisplayName="Get Row Item" sap:VirtualizedContainerService.HintSize="333.6,188" sap2010:WorkflowViewState.IdRef="GetRowItem_3" Row="[row]">
+                        <ui:GetRowItem.Value>
+                          <OutArgument x:TypeArguments="x:Double">[Price]</OutArgument>
+                        </ui:GetRowItem.Value>
+                      </ui:GetRowItem>
+                      <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Компания'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="333.6,218.4" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="22f1c24c-0398-4873-861d-a25e98ded6e2" Text="[Company]" Version="V3">
+                        <uix:NTypeInto.Target>
+                          <uix:TargetAnchorable CvType="InputBox" DesignTimeRectangle="109, 195, 296, 28" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" Guid="47993286-0668-412c-b802-9b61e0dc6699" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAASwAAAAgCAYAAACoyEW6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACRSURBVHhe7dSxDYAgAABBZ2AdlmL/BmsTjS2fXHEr3DXG2AAFwgIyhAVkCAvIeIS11gI4zmdYc06AIwgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMn7DAjjNa1gAJxMWEDH2DZrrR3BIJNNLAAAAAElFTkSuQmCC" InformativeScreenshot="b1338793c66d0b1ba6e07ba991aa14fb.png" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='Заказ товаров - Opera' /&gt;" SearchSteps="Selector, FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+                            <uix:TargetAnchorable.Anchors>
+                              <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                                <uix:Target CvTextArgument="KoMIIaHHA" CvType="Text" DesignTimeRectangle="20, 196, 90, 23" ElementType="Text" FriendlyName="'Компания'" FullSelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl name='Компания ' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl name='Компания ' role='text' automationid='' check:text='Компания' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAF4AAAAbCAYAAAD1RzixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAARhSURBVGhD7Vc/a9tQEO9n8DcRGbMYf4AashgCHRs6BJGhnoIoFJOleCmmQ3CHIjIEZQjYUJCHgDIE5CEoQ0AejDsUqpJBQwdBhuvd+6cnRUqd1o2Wd/Ab9N69u3u/d+/e6UWr1QKD54chviEY4huCIf6ZcXBwwGCIf2YQ6dvb24b454YhviEY4hvCA+LdBVRIDK5a1IPR5Qqyez6TzBxlzGB9VGZ8e9+DlSB2NbWhrc11z5D0ZQD+dcLIz+YjNWewPmpKjQXekmhPITjUxx0I0gT8fX3M4G9QW+N5ySkSb30IIV160NX0DP4OTyDeBj9JIfxgFfQUOn3wRPlhkqUQz0bQE/POZSomUBIfbH0tYQfLG5vMYHUxBmfHxZdlDUkDcJgN/vak0j9K+s0HZ0vYPwxwN7rwvT140xZuMVYS5oNuu/gWEp9w272PAazSTIwWReqUsRbx1ksHJssMkksHrJIewxYGdYeULSfQ7+B3x4bxnEeZ4UYk+e3PsTiYDMIjbT3CniVMPycSsdWHgA3rjztCkJjNhyoe+yspYmIctfHbgr1T9EUjGLNa1xlDTP5/RTCSB4K6/Qvue3XeU7oUK0l2PcrfuM4Iol9MEya7YuzNBNjqLAZvn3xL7lDndU2SIv5AvCZ3IYyksxJ4hqzA29HHezD5RgsziD6KMSQsnoc8s2/G2iEOIFxEEJEZnXgEj6OaeD2bBhRDhoQqPXFj8ODVOpm1JR+tE9IsvWfCR+HgdpH48vpPEQ6gaH5YzGUfJayR8W3oT7GToU88VfcB+TWbQVinonhgZrIxIh43Mr6h0fygrOMI4rNhpZ11iVfA2zacRpCwzETZFPG7LvjnDnhlUsVtp/XhsQ1dvEkbIp6+rbzu3aFBdU0JIrOqHIng1eYF8a2jkB1kMrNxvAvebQRj2kAFKesT34bBjP4vsCReT2CILXFtxlfKI8TvDsH7wstsJan0vt2UDG+GeAI9rsxkoW63WkMIZd0rlBqEDP6ir74Z8dIWlYa3PsRXAxz7F+ItGF3jUd7jLVJ1dUOl5soDF2+j3G8l8VhW3QV7USB4Z9XoFFFDfE0fj9ctZjUHZy4H6tEZXPHB5CtlcK7fPadSo/X9inicY5tFO2ks5v+FeKy99Ghiq5u/G5shnmzmSVZFfF4N6HbU3ooSKol/7M/VeicCQklvPXBeYoZR68e453WO9MkGjclgmF2s+dntWNjDB5VuivwvkB3DfQxj6oxoTJYfPLy8Q8COZcqvXt7VSD3y34e99y4Etyl/l777MDidgPuKfIiWlboa6QPtDec8cVbTvUKsJI93NdgRYXKx1VSCyzpP6Wp4hpVFzzit3gthmYcvvr/QxvEPNzrtq6ALa0Q22FiTo2MMTmaXEso+kbGakJ+yb2mLEiIRyZItqK21YfIdP+5T9IFtYqWPiv3iDSn74A/sw3h+/pB68iCqY5bc6qit8Qb/F4b4hmCIbwiG+IZgiG8IhviGwInfht++8JuQ+SAu/QAAAABJRU5ErkJggg==" SearchSteps="Selector, FuzzySelector, Image, CV" />
+                              </scg:List>
+                            </uix:TargetAnchorable.Anchors>
+                          </uix:TargetAnchorable>
+                        </uix:NTypeInto.Target>
+                      </uix:NTypeInto>
+                      <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'заказала'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="333.6,218.4" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="22f1c24c-0398-4873-861d-a25e98ded6e2" Text="[Goods]" Version="V3">
+                        <uix:NTypeInto.Target>
+                          <uix:TargetAnchorable CvType="InputBox" DesignTimeRectangle="485, 195, 296, 28" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'editable text'" FullSelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl idx='2' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl automationid='' role='editable text' /&gt;" Guid="cc43328b-bfa5-4357-9470-33861e9fa967" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAASwAAAAgCAYAAACoyEW6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACRSURBVHhe7dSxDYAgAABBZ2AdlmL/BmsTjS2fXHEr3DXG2AAFwgIyhAVkCAvIeIS11gI4zmdYc06AIwgLyBAWkCEsIENYQIawgAxhARnCAjKEBWQIC8gQFpAhLCBDWECGsIAMYQEZwgIyhAVkCAvIEBaQISwgQ1hAhrCADGEBGcICMn7DAjjNa1gAJxMWEDH2DZrrR3BIJNNLAAAAAElFTkSuQmCC" InformativeScreenshot="18818648e84bcd95e36ffb679bbeaa2b.png" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='Заказ товаров - Opera' /&gt;" SearchSteps="FuzzySelector, Image, CV" Version="V2" Visibility="Interactive">
+                            <uix:TargetAnchorable.Anchors>
+                              <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                                <uix:Target CvTextArgument="3aka3aJ1a" CvType="Text" DesignTimeRectangle="404, 196, 82, 23" ElementType="Text" FriendlyName="'заказала'" FullSelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl name=' заказала ' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl name=' заказала ' role='text' automationid='' check:text='заказала' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFYAAAAbCAYAAADmkHhFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAPHSURBVGhD7ZYxa+MwFMf7GfJNTMYsoR/gAl0KHW5ruKGEDg0diuliumU5wg0lNxRTjpIOBQcKuaHgDgXfQfENBXco7tDBkMFDB0OH/70nyYmSXFL7qDcJ/mBJT89PP0lP2qjVajD6eBmwFcmArUgb+/v7yPUvA6NyylluNBoNA/YDxRyZqQH7wTJgK5IBW5EM2IpkwFYkA7YiGbAVqTjY8wjIMCtvGdKHIbr1mY11MEQ00YyyFOHptup3QR7mSnpro1a3MX6WY7JffWm704f/nIo2Ud5SxNc2LPWf2pGPJNODIV/PPvo7qp+0PhYp91H1rSjReXFfiyoHdhJgsNekehPdUSz/ca9g1PsI+d9PQ7QZ9qYDf8IWEdwcfr0LP+G2BN6uJdo6P2PENx78+wi+CLaDMdukAZxNHtPG8JEdp/CPlB8Cm2YxvOMWwbbQ/hZSL5UXD+2isQg1Yd8kcoFVm4SdwD+Q8RX3Na8SYAMEJ1q9PoRA++DK+hbV3yikUXtqY9/ydDUgJBk4BSXqDoInH7bqk6LAadh0wVi8qDxK7SAGG1y2Zv01W4zBxEeX6wVjESLfy2Dz+EhlfGkqDlbXZgfuH1rGLMH4WK3sVBZaxy78R/45lxVg6y30bhPEV6uPVHOvB+8+QUYTE6NysLrYD+06/s/y8Vwfi9B7YKcq4EtTebBq94CO4vhrB02tz9odIORjktKxPrMJ3PLKysDzks3nzlx03ETepYULRz10LhZ2bC5OCdxBOTi8sNHSjmaRWIQKgC3sS1N5sKzNbTg0WXafPbrY5rY9DwntrPTOmcJemwp26DLj3EVwo3Ntpy3mNG5bTAW6aMd2TvkyIwNKBTaPKRiLEPmOr2ZpZQlsGV+a/g+skMprKoj2tTyO/vHMZi1Y+m6dRfKhkTFoZUMXEZf4Qksx68AqSb/yX0VjYVkX8ZzfRbBlfOkqCLaFwR0fAwefP/GE+SYOyDWVV7q9ycZSk8+ePDhfuuiNQiTCIEP4nXLlZY92V74YMYZ845Nf90GgFbtNvALy480vkMM2nDN/+tRJrh0Mr1z8GEUiRXR3+IVCufjQQyxMyO9WkVh+I0hTRORj+JTOLmV6gXgvbDd7FRSal2A0r4JgWfTE4uOvOHBJX2jy6tlUq23PIL0lCL610aTdxy3Z85iO6Kp3bA/Bq2oQu8ASTyBR6K0cjbp0icnjiDTEQOxsXlgfsZigLNkkgnciQb8fSx+B6k7vBzKVKYB6kTv5PV9ss6wSYI3KyICtSAZsRTJgK5IBW5EM2IokwTbwF4Tj3UDINJgwAAAAAElFTkSuQmCC" SearchSteps="Selector, FuzzySelector, Image, CV" />
+                              </scg:List>
+                            </uix:TargetAnchorable.Anchors>
+                          </uix:TargetAnchorable>
+                        </uix:NTypeInto.Target>
+                      </uix:NTypeInto>
+                      <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Click'" sap:VirtualizedContainerService.HintSize="333.6,157.6" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="22f1c24c-0398-4873-861d-a25e98ded6e2" Version="V3">
+                        <uix:NClick.Target>
+                          <uix:TargetAnchorable CvElementArea="18, 243, 58, 31" CvTextArea="27, 250, 40, 16" CvTextArgument="Click" CvType="Button" DesignTimeRectangle="20, 245, 56, 27" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Click'" FullSelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl name='Click' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Заказ товаров' role='document' /&gt;&lt;ctrl name='Click' role='push button' automationid='' check:text='Click' /&gt;" Guid="9369d77d-3329-4770-b8d7-017a57f89103" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADwAAAAfCAYAAAC7xK7qAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIUSURBVFhH7ZLbjoIwEIb3GXxS39Z4CJ6NJiIHu8DWkNnSacsItUDWi90uTb6L4Z9p+wEfk8kE/hOjsO8Y4el06i0vhS+Xi3eMwlT4fD57xyhMhU+nk3eMwlT4eDwO4/MBzVUWiaWnhCLBOilKUT/gk/Y4wPECEkvWB6fw4XDoSQzy3pVITJ7HhXiCF4z1My1M+waghc1+A3mLMH5Y8ZUsmZYuixjr3yy83++7iWoha76PgbEY4kjljKNwhHksfw0OjM7IHrIezGRMC5t+JqZxcaafvcYpvNvtulGX48yS2VDCeYR1pIVVjjXdTwlxJmsczyGiGZnvwim83W47iXL5fSG/2fMWWlj14zyHu8zvUqDMI8sM9ty1sOqtZ/vhFN5sNp3cjLA9b4E3Nv04Ly5dZbdcJKK6k/4GOM6BV41DzlX8WBgF3Jd8wiXcYy/VUi/xtW+Wvlc4hdfrdQ/0bxhaMgQvKaSqWguHmIVa2GSVcD3bBMdzCKta9bvObuIUDoKgF6kSSi1ZEGbyNwWeYi2bS8hCzLUwzqbm5dn24Kk6q8wgVJnzbAtvEQ6CEDJpVYtItCy9kFNY1yiH+6i9lWRTuPVCO3AKr1arQVzR+mmV2fW5L/2qnkJ2pTNfkLR6yOKJyRIlfCX9+tzWWRbeKvwXcAovl0vvcAovFgvvGIWp8Hw+945RmArPZjPvcAr7ilX4fzCBbyT1NYdho0HkAAAAAElFTkSuQmCC" InformativeScreenshot="3f990e68acd3052733b3fdd293bab9b8.png" ScopeSelectorArgument="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='Заказ товаров - Opera' /&gt;" SearchSteps="Selector, FuzzySelector, Image, CV" Version="V2" Visibility="Interactive" />
+                        </uix:NClick.Target>
+                      </uix:NClick>
+                    </Sequence>
+                  </ActivityAction>
+                </ui:ForEachRow.Body>
+              </ui:ForEachRow>
+              <Assign sap:VirtualizedContainerService.HintSize="433.6,82.4" sap2010:WorkflowViewState.IdRef="Assign_1">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:Double">[Sum]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:Double">[Sum + Price]</InArgument>
+                </Assign.Value>
+              </Assign>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="-9, -9, 1938, 1048" FilePath="C:\Users\Acer\AppData\Local\Programs\Opera\opera.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAfZSURBVFhH3Zh7cFRXHcfP3bt793X3vXv3mWR3k93si0fIpnk0TxpDkj8UHWY6A9ph1FqozDDWCbaCVUvHplNhWpRRKyVoCzIBAoJSLFFIKJaCIXRjIfJoq2lTyYYkEEh24e4Zf9ectFB3b170H78zn392ft9zvvs75549e9H/lTQSCYoyCmWhTJn9oStcnrJHmnhHuJV3hLp5R2SAt0XGeVsoydtDA7w9fA4+a8X28Lo+m68CPDmCVxjjc9EqlpVu0lvLUlmhDbw90gHBxrAjgqcDhL4Fns5UdvhpGKMcxpKRYe+PNrLWvJQj/6cpRySWsocT6UJ8lpQjjJO2EL5pDeAb1nw8bgti6GoSuv533unbvFHD+cnws9dylpV0W91fHLOHumDgaQUbMOfiv2k4/LqcxW0yBd4rleM9wD6ZHB9kVLhTbcAX9c7EkNXf3W32LVuhMNJkupmpilEyKUdwNXQtni7IJNBRoTO43+xJ/VHB8jtomv8NTacIOBM7pQw+o+EGR62Bb1cyKjmZdnoSwsFGXwtdG0oXahIh3AjnHzuu5d5rlso61tP0duCXP5RKf/+iTNbzW4a59hrDpACciT8o2ZEr5uzvlDHK6YUUlpV3BlfBphYNJ3CVy+v7GWv4xRKabtAhlAN2C2CGJ8C+QCJZtEIqXbdNqTzRqlLxAM5Em1p9vdvsWL1UqZx6ubutni9BuDgsLWz0zIzaApceV+pX2iUSO9iYCfc9ouFAYRfRdNnPWfa1/Vrt7QNaLc6MLt6i1y8j3vR6huXybtmCXRAQ9lVmkvbQ5ceUhmVyRE1nWehcmvZv1+t3HzaZsBj7jcauR1SqPOK7V4+pWdkdu39T0hZOAHBEpAeOi5EtrG0Ni6h0Xcskqphhig9y3Kl2my0F4Awkjrhcmxs1GinxTUg43V/QWcvGbaFYAs4uEW6fNnl3F8gULmKdtjQUpWjS65uOuVzDJ7KysAixNXp9mYqiiBNUyCgUCVdww5g1lABwJq5bAx99X21eDpZZ/V5FGSa3zeXqfNvrTQE4A4mTHs/T+QyjJDaECqSK7BtcsHPUGsQi8OdM3vZyRukkthkL1o3e4nCsP+vzJbr9fpyJLr//ZFAudxMbQu/qcsquc8FxAGdihAsk9upcT8Ikd/V+5vqm2Rw+Gwjc6AkGcUYCgbEOt/tBYkFowJy/bsiSj8UYNPtvbmKtZcQyF9Gng8ETvfPmYTEu+sPfI/UIfWzO3zdoFkJkps/k+7haptIQy5z0ZjjcfHnhQizGpcj8vaQcApp8sasmPxbjkjG3E0rntLyTag+Hv/pBYSEW470FBe+QcoT6jXnxfpMPi3He6N1Fyues1wORio+Ki7EY/yoqukbKEeoz5Cb6jHlYjJjB82tSPmcdDgTy/11aiqeAJ+UIva/3Jj7Q52Ixzurc9y3g8VCB71pFBRYjXl4+TsoRuqTzxq/ovFiMLp17Jymfs94pLC4ZqarCYgyVV1wl5Qhd0Lpj/9B5sBhnNDkdpHzO6i0tfXh08WIsxlBFVYyUwxWLzT5wXuvBYsQ0Of1PqMwzuSBkVF9l5bNjtbVYjKul5ftJOUJHlc4f9WjceApGf6WyLiSWOWmwpqYjWVeHxXh30QM/JuUIrWd0S7rV2eMAFiHRorB9V4Nm9x9nUkej0ew79fXX+fp6nInb9fVjGx3uWmJByE/JvJ1K519Pq7KwCPzbCs+RNZTVQGwz1jygu6ioiW9sTKQaG3EmRuvqTi3QaLwTLhCHaHaLzPzcSbkzeVLhwiJ8uFqq+wqxzVjNFostVV39ZwiRwhAkHUL4N6LRZpdczhIb/HrDT9iXJerao4y9t0PuwCLc3s1wLQsomZlYp61Ko1Hyfk3NqlRDw7V0wSa5uWTJ+cezsxf/z60Juqhtpo1b22X2RDtjx5k4KrMPH5RzD1vQ3VfeqbXMZgtB596EgBm7ByQPRaNb7QpF+ktJvURZuIfmeo5IrViMw1JrbxvlK3LR9LRCLjYaOb6h4WVhf6UJ9QkDtbWxrzudBcSWVrJvUezKQxJu8BDNYTHeUDhjx5zu+jKN7tOr+WdUY7Gg5Q6HH57MrbC3bqcLNcmdhob4837/SrCJv1jSIkrzJNKs309ZRg5IOCzGX3Sefx73z//J5mAwGmHZTw7xiFZLbQ6HXVceeugb0LV2WFY+XahJEl+oG96W639KK5F8+mCIyYQowzqkfWYPZRneS1lwJvYBR9SuWxdDhb3nSsoOd5SUbAFe6Kms3AXBzkCwOAQQ23N4uLxqZKst51kLJZnZ8QUhLU1I84NWZB4E8FQcM3lS8ZJKHoIJpATSBZokWVePL/gXxp+SGzcYYC4y7cykRJRxBVI++jLS9/wOmRIAnoo/6XJwj28+7n/gQehONR6prPkvwxU1eKC0Al+eF8VvOfMTO2SW2AqkelSYg0w3a6mrkLz0CaRpaUGGCzuRMbkLgkyHVtqC2xgb3ge0woMFnyV2wBhrkXobjCn8AVNPTDF3SeHhsVYj+dK1iH1pOzKegsnG7g4jxk5kurUdGd5ai1QvViNmqWriLdi9rzfuh+DQk+kQxeUgurQKMV9rRtrnX0HGA68iYwxCDAA8BIIOGwdfRYaeV5Dh4HNI2wyhHgFPCXxJThiDDPe5S3j9oQeygHxAuAssAoSDdj75LBsQamb5ah+h/wCVpWVMz9T7dQAAAABJRU5ErkJggg==" InformativeScreenshot="a115136443ed0d40f49e377838555bd6.png" Selector="&lt;wnd app='opera.exe' cls='Chrome_WidgetWin_1' title='Заказ товаров - Opera' /&gt;" Title="Заказ товаров" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+      <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="529.6,85.6" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[Sum.toString]" />
+    </Sequence>
+  </Sequence>
+</Activity>
