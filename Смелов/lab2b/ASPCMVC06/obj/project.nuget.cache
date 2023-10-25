@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3cpBMTIuIxu7O/M/oO2V4yjXHbsT6bCyvYIhKu4WhzY0ap1Top5H0t4jaZ00Pl77OWeT6TIy6FUi4wimBAuP+A==",
+  "dgSpecHash": "CinFwAw0v/jHH/3W97Xm5yzkcbLbpnmhdIqxj+/WyM6VKB/Mf99Co4v8ei68uorGB5piuFQUPfqQOkRbh5zkPA==",
   "success": true,
-  "projectFilePath": "E:\\5сем\\Смелов\\lab2b\\ASPCMVC06\\ASPCMVC06.csproj",
+  "projectFilePath": "E:\\лабы\\Смелов\\lab2b\\ASPCMVC06\\ASPCMVC06.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",

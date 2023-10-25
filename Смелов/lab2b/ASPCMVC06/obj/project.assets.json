@@ -657,11 +657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\5сем\\Смелов\\lab2b\\ASPCMVC06\\ASPCMVC06.csproj",
+      "projectUniqueName": "E:\\лабы\\Смелов\\lab2b\\ASPCMVC06\\ASPCMVC06.csproj",
       "projectName": "ASPCMVC06",
-      "projectPath": "E:\\5сем\\Смелов\\lab2b\\ASPCMVC06\\ASPCMVC06.csproj",
+      "projectPath": "E:\\лабы\\Смелов\\lab2b\\ASPCMVC06\\ASPCMVC06.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "E:\\5сем\\Смелов\\lab2b\\ASPCMVC06\\obj\\",
+      "outputPath": "E:\\лабы\\Смелов\\lab2b\\ASPCMVC06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
