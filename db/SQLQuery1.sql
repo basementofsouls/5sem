@@ -194,3 +194,84 @@ BEGIN
 
   RETURN @sold_tickets;
 END;
+
+
+-----------------------------------------ЛР 3-----------------------------------
+---Добавление столбца иерархии
+ALTER TABLE Points
+ADD point_hierarchy hierarchyid;
+
+
+---Создание процедуры для отображения подчиненных узлов с указанием уровня иерархии
+CREATE PROCEDURE GetSubordinatesWithLevel @node hierarchyid
+AS
+BEGIN
+    SELECT
+        point_id,
+        city,
+        country,
+        point_name,
+        point_hierarchy.ToString() AS HierarchyPath
+    FROM
+        Points
+    WHERE
+        point_hierarchy.IsDescendantOf(@node) = 1
+    ORDER BY
+        point_hierarchy;
+END;
+
+
+---Создание процедуры для добавления подчиненного узла
+CREATE PROCEDURE AddSubordinate @parentNode hierarchyid, @city VARCHAR(50), @country VARCHAR(50), @point_name VARCHAR(50)
+AS
+BEGIN
+    DECLARE @childNode hierarchyid;
+    SELECT @childNode = @parentNode.GetDescendant(NULL, NULL);
+
+    INSERT INTO Points (city, country, point_name, point_hierarchy)
+    VALUES (@city, @country, @point_name, @childNode);
+END;
+
+
+---Создание процедуры для перемещения подчиненной ветки
+CREATE PROCEDURE MoveSubtree @sourceNode hierarchyid, @destinationNode hierarchyid
+AS
+BEGIN
+    DECLARE @distance hierarchyid;
+    SET @distance = @destinationNode.GetDescendant(NULL, NULL);
+
+    UPDATE Points
+    SET point_hierarchy = point_hierarchy.GetReparentedValue(@distance, @sourceNode)
+    WHERE point_hierarchy.IsDescendantOf(@sourceNode) = 1;
+END;
+
+
+
+-- корневой узел
+INSERT INTO Points (city, country, point_name, point_hierarchy)
+VALUES ('City A', 'Country A', 'Root', hierarchyid::GetRoot());
+
+
+-- Вызов процедуры AddSubordinate для добавления подчиненных узлов
+DECLARE @root hierarchyid;
+SELECT @root = point_hierarchy FROM Points WHERE point_id = 1; -- Здесь 1 - идентификатор корневого узла
+
+EXEC AddSubordinate @root, 'City B', 'Country A', 'Child 1';
+EXEC AddSubordinate @root, 'City E', 'Country B', 'Child 2';
+
+
+-- Получить иерархические пути к существующим узлам (Child 1 и Child 2)
+DECLARE @child1 hierarchyid, @child2 hierarchyid;
+
+SELECT @child1 = point_hierarchy FROM Points WHERE point_id = 2; -- Идентификатор Child 1
+SELECT @child2 = point_hierarchy FROM Points WHERE point_id = 3; -- Идентификатор Child 2
+
+-- Добавить подчиненные узлы для Child 1
+EXEC AddSubordinate @child1, 'City C', 'Country A', 'Grandchild 1';
+EXEC AddSubordinate @child1, 'City D', 'Country A', 'Grandchild 2';
+
+-- Добавить подчиненные узлы для Child 2
+EXEC AddSubordinate @child2, 'City F', 'Country B', 'Grandchild 3';
+
+
+Select * from Points;

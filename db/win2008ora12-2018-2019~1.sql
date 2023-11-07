@@ -158,4 +158,89 @@ BEGIN
   RETURN sold_tickets;
 END;
 
+--------------Ћ–3----------
+ALTER TABLE Points
+ADD hierarchy_path VARCHAR2(4000);
+
+
+UPDATE Points p
+SET p.hierarchy_path = (
+    SELECT SYS_CONNECT_BY_PATH(city || '/' || country || '/' || point_name, '/')
+    FROM Points
+    WHERE point_id = CONNECT_BY_ROOT point_id
+    START WITH point_id = p.point_id
+    CONNECT BY PRIOR point_id = point_id
+);
+
+
+-----ѕолучение всех подчиненных узлов в иерархии
+CREATE OR REPLACE FUNCTION GetSubordinates(p_node_id NUMBER) RETURN SYS_REFCURSOR IS
+  l_cursor SYS_REFCURSOR;
+BEGIN
+  OPEN l_cursor FOR
+  SELECT point_id, city, country, point_name, hierarchy_path
+  FROM Points
+  WHERE hierarchy_path LIKE (SELECT hierarchy_path || '%' FROM Points WHERE point_id = p_node_id);
+
+  RETURN l_cursor;
+END GetSubordinates;
+/
+
+
+---------ѕолучение иерархической структуры в виде дерева
+CREATE OR REPLACE FUNCTION GetHierarchyTree RETURN SYS_REFCURSOR IS
+  l_cursor SYS_REFCURSOR;
+BEGIN
+  OPEN l_cursor FOR
+  SELECT point_id, city, country, point_name, hierarchy_path
+  FROM Points
+  START WITH SUBSTR(hierarchy_path, 1, INSTR(hierarchy_path, '/', 1, 1) - 1) IS NULL
+  CONNECT BY PRIOR point_id = point_id
+  ORDER SIBLINGS BY point_name;
+
+  RETURN l_cursor;
+END GetHierarchyTree;
+/
+
+
+
+-----ƒобавление нового узла
+CREATE OR REPLACE PROCEDURE AddNode(p_city VARCHAR2, p_country VARCHAR2, p_point_name VARCHAR2, p_parent_id NUMBER) IS
+  l_parent_path VARCHAR2(4000);
+BEGIN
+  -- ѕолучите иерархический путь родительского узла
+  SELECT hierarchy_path
+  INTO l_parent_path
+  FROM Points
+  WHERE point_id = p_parent_id;
+
+  -- новый узел с корректным иерархическим путем
+  INSERT INTO Points (city, country, point_name, hierarchy_path)
+  VALUES (p_city, p_country, p_point_name, l_parent_path || '/' || p_point_name);
+
+  COMMIT;
+END AddNode;
+/
+
+
+
+----ѕеремещение узла в другое место иерархии
+CREATE OR REPLACE PROCEDURE MoveNode(p_node_id NUMBER, p_new_parent_id NUMBER) IS
+  l_new_parent_path VARCHAR2(4000);
+BEGIN
+  --иерархический путь нового родительского узла
+  SELECT hierarchy_path
+  INTO l_new_parent_path
+  FROM Points
+  WHERE point_id = p_new_parent_id;
+
+  -- обновление иерархического пути перемещаемого узла
+  UPDATE Points
+  SET hierarchy_path = l_new_parent_path || '/' || point_name
+  WHERE point_id = p_node_id;
+
+  COMMIT;
+END MoveNode;
+/
+
 
