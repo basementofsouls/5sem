@@ -6,30 +6,30 @@
         "Version": "2.22.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\closedxml\\0.95.4\\lib/netstandard2.0/ClosedXML.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/Office.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\closedxml\\0.95.4\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/Office.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview"
     },
     {
       "Package": {
@@ -37,83 +37,83 @@
         "Version": "23.8.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\markdig.signed\\0.21.1\\lib/netcoreapp3.1/Markdig.Signed.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\lib/netstandard2.0/Microsoft.ApplicationInsights.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib/netstandard2.0/Microsoft.AspNet.SignalR.Client.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Connections.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.Http.Connections.Client.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Connections.Common.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.SignalR.Client.Core.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Common.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.ConsoleHost.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.CoreCLR.Eventing.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.MarkdownRender.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.SDK.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.security\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Security.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.wsman.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Management.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Runtime.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\namotion.reflection\\1.0.14\\lib/netstandard2.0/Namotion.Reflection.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\njsonschema\\10.2.2\\lib/netstandard2.0/NJsonSchema.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230713.1\\lib/net5.0-windows7.0/System.Activities.ViewModels.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib/netstandard2.1/System.ComponentModel.Composition.Registration.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.AccountManagement.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib/netcoreapp3.0/System.IO.Pipelines.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.ports\\5.0.0\\runtimes/win/lib/netstandard2.0/System.IO.Ports.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.management\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Management.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.management.automation\\7.1.0\\runtimes/win/lib/net5.0/System.Management.Automation.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib/netstandard2.0/System.Private.ServiceModel.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib/netstandard2.1/System.Reflection.Context.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\markdig.signed\\0.21.1\\lib/netcoreapp3.1/Markdig.Signed.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\lib/netstandard2.0/Microsoft.ApplicationInsights.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib/netstandard2.0/Microsoft.AspNet.SignalR.Client.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Connections.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.Http.Connections.Client.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Connections.Common.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib/netstandard2.1/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Common.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib/netcoreapp3.1/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.ConsoleHost.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.CoreCLR.Eventing.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.MarkdownRender.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.SDK.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.security\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Security.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.wsman.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Management.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Runtime.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\namotion.reflection\\1.0.14\\lib/netstandard2.0/Namotion.Reflection.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\njsonschema\\10.2.2\\lib/netstandard2.0/NJsonSchema.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230713.1\\lib/net5.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib/netstandard2.1/System.ComponentModel.Composition.Registration.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Data.OleDb.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.AccountManagement.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib/netcoreapp3.0/System.IO.Pipelines.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.ports\\5.0.0\\runtimes/win/lib/netstandard2.0/System.IO.Ports.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.management\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Management.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.management.automation\\7.1.0\\runtimes/win/lib/net5.0/System.Management.Automation.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib/netstandard2.0/System.Private.ServiceModel.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib/netstandard2.1/System.Reflection.Context.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview"
     },
     {
       "Package": {
@@ -121,21 +121,21 @@
         "Version": "23.8.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\automapper\\9.0.0\\lib/netstandard2.0/AutoMapper.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\automapper\\9.0.0\\lib/netstandard2.0/AutoMapper.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview"
     },
     {
       "Package": {
@@ -143,45 +143,45 @@
         "Version": "23.6.2-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath\\23.6.60.46509-preview\\lib/net6.0-windows7.0/UiPath.Interop.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.CV.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath\\23.6.60.46509-preview\\lib/net6.0-windows7.0/UiPath.Interop.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.CV.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview"
     }
   ],
   "Conflicts": [],
@@ -4246,9 +4246,9 @@
         "Version": "9.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\automapper\\9.0.0\\lib\\netstandard2.0\\AutoMapper.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\automapper\\9.0.0\\lib\\netstandard2.0\\AutoMapper.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\automapper\\9.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\automapper\\9.0.0"
     },
     {
       "Package": {
@@ -4256,9 +4256,9 @@
         "Version": "0.95.4"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\closedxml\\0.95.4\\lib\\netstandard2.0\\ClosedXML.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\closedxml\\0.95.4\\lib\\netstandard2.0\\ClosedXML.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\closedxml\\0.95.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\closedxml\\0.95.4"
     },
     {
       "Package": {
@@ -4266,9 +4266,9 @@
         "Version": "16.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\csvhelper\\16.0.0\\lib\\netstandard2.1\\CsvHelper.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\csvhelper\\16.0.0\\lib\\netstandard2.1\\CsvHelper.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\csvhelper\\16.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\csvhelper\\16.0.0"
     },
     {
       "Package": {
@@ -4276,9 +4276,9 @@
         "Version": "2.12.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib\\netstandard2.0\\DocumentFormat.OpenXml.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib\\netstandard2.0\\DocumentFormat.OpenXml.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\documentformat.openxml\\2.12.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\documentformat.openxml\\2.12.1"
     },
     {
       "Package": {
@@ -4286,9 +4286,9 @@
         "Version": "1.0.10"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib\\netstandard2.0\\ExcelNumberFormat.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib\\netstandard2.0\\ExcelNumberFormat.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\excelnumberformat\\1.0.10"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\excelnumberformat\\1.0.10"
     },
     {
       "Package": {
@@ -4296,9 +4296,9 @@
         "Version": "0.21.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\markdig.signed\\0.21.1\\lib\\netcoreapp3.1\\Markdig.Signed.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\markdig.signed\\0.21.1\\lib\\netcoreapp3.1\\Markdig.Signed.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\markdig.signed\\0.21.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\markdig.signed\\0.21.1"
     },
     {
       "Package": {
@@ -4306,9 +4306,9 @@
         "Version": "2.15.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\lib\\netstandard2.0\\Microsoft.ApplicationInsights.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0\\lib\\netstandard2.0\\Microsoft.ApplicationInsights.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.applicationinsights\\2.15.0"
     },
     {
       "Package": {
@@ -4316,9 +4316,9 @@
         "Version": "2.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\netstandard2.0\\Microsoft.AspNet.SignalR.Client.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\netstandard2.0\\Microsoft.AspNet.SignalR.Client.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
     },
     {
       "Package": {
@@ -4326,9 +4326,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.Connections.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -4336,9 +4336,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib\\netstandard2.1\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\lib\\netstandard2.1\\Microsoft.AspNetCore.Http.Connections.Client.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6"
     },
     {
       "Package": {
@@ -4346,9 +4346,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.Http.Connections.Common.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.Http.Connections.Common.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6"
     },
     {
       "Package": {
@@ -4356,9 +4356,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.Http.Features.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.Http.Features.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6"
     },
     {
       "Package": {
@@ -4366,9 +4366,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\lib\\netstandard2.0\\Microsoft.AspNetCore.SignalR.Client.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6"
     },
     {
       "Package": {
@@ -4376,9 +4376,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib\\netstandard2.1\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\lib\\netstandard2.1\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6"
     },
     {
       "Package": {
@@ -4386,9 +4386,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.SignalR.Common.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.SignalR.Common.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6"
     },
     {
       "Package": {
@@ -4396,9 +4396,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6"
     },
     {
       "Package": {
@@ -4406,9 +4406,9 @@
         "Version": "7.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib\\netstandard2.0\\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib\\netstandard2.0\\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1"
     },
     {
       "Package": {
@@ -4416,7 +4416,7 @@
         "Version": "3.3.3"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3"
     },
     {
       "Package": {
@@ -4424,9 +4424,9 @@
         "Version": "4.5.0-2.22527.10"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib\\netcoreapp3.1\\Microsoft.CodeAnalysis.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib\\netcoreapp3.1\\Microsoft.CodeAnalysis.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10"
     },
     {
       "Package": {
@@ -4434,9 +4434,9 @@
         "Version": "4.5.0-2.22527.10"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib\\netcoreapp3.1\\Microsoft.CodeAnalysis.CSharp.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib\\netcoreapp3.1\\Microsoft.CodeAnalysis.CSharp.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10"
     },
     {
       "Package": {
@@ -4444,9 +4444,9 @@
         "Version": "4.5.0-2.22527.10"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib\\netcoreapp3.1\\Microsoft.CodeAnalysis.VisualBasic.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib\\netcoreapp3.1\\Microsoft.CodeAnalysis.VisualBasic.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10"
     },
     {
       "Package": {
@@ -4454,9 +4454,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.csharp\\4.7.0\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.csharp\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.csharp\\4.7.0"
     },
     {
       "Package": {
@@ -4464,9 +4464,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
     },
     {
       "Package": {
@@ -4474,9 +4474,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -4484,9 +4484,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
     },
     {
       "Package": {
@@ -4494,9 +4494,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
     },
     {
       "Package": {
@@ -4504,9 +4504,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -4514,9 +4514,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
     },
     {
       "Package": {
@@ -4524,9 +4524,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
     },
     {
       "Package": {
@@ -4534,9 +4534,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Options.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Options.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
     },
     {
       "Package": {
@@ -4544,9 +4544,9 @@
         "Version": "3.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
     },
     {
       "Package": {
@@ -4554,9 +4554,9 @@
         "Version": "2.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure\\2.0.0\\lib\\netstandard1.6\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure\\2.0.0\\lib\\netstandard1.6\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure\\2.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure\\2.0.0"
     },
     {
       "Package": {
@@ -4564,9 +4564,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.Management.Infrastructure.CimCmdlets.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.Management.Infrastructure.CimCmdlets.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0"
     },
     {
       "Package": {
@@ -4574,7 +4574,7 @@
         "Version": "2.0.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.runtime.unix\\2.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.runtime.unix\\2.0.0"
     },
     {
       "Package": {
@@ -4582,10 +4582,10 @@
         "Version": "2.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0"
     },
     {
       "Package": {
@@ -4593,9 +4593,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0"
     },
     {
       "Package": {
@@ -4603,9 +4603,9 @@
         "Version": "1.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0"
     },
     {
       "Package": {
@@ -4613,7 +4613,7 @@
         "Version": "1.0.1"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1"
     },
     {
       "Package": {
@@ -4621,9 +4621,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Commands.Diagnostics.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Commands.Diagnostics.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0"
     },
     {
       "Package": {
@@ -4631,9 +4631,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Commands.Management.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Commands.Management.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0"
     },
     {
       "Package": {
@@ -4641,9 +4641,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Commands.Utility.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Commands.Utility.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0"
     },
     {
       "Package": {
@@ -4651,9 +4651,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.ConsoleHost.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.ConsoleHost.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.consolehost\\7.1.0"
     },
     {
       "Package": {
@@ -4661,9 +4661,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.CoreCLR.Eventing.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.CoreCLR.Eventing.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.coreclr.eventing\\7.1.0"
     },
     {
       "Package": {
@@ -4671,9 +4671,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.MarkdownRender.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.MarkdownRender.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.markdownrender\\7.1.0"
     },
     {
       "Package": {
@@ -4681,7 +4681,7 @@
         "Version": "7.1.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.native\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.native\\7.1.0"
     },
     {
       "Package": {
@@ -4689,9 +4689,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.SDK.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.SDK.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.sdk\\7.1.0"
     },
     {
       "Package": {
@@ -4699,9 +4699,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.security\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Security.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.security\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.PowerShell.Security.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.powershell.security\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.powershell.security\\7.1.0"
     },
     {
       "Package": {
@@ -4709,9 +4709,9 @@
         "Version": "2.3.21"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\netstandard2.0\\Microsoft.Rest.ClientRuntime.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\lib\\netstandard2.0\\Microsoft.Rest.ClientRuntime.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21"
     },
     {
       "Package": {
@@ -4719,9 +4719,9 @@
         "Version": "3.3.18"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib\\netstandard1.4\\Microsoft.Rest.ClientRuntime.Azure.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib\\netstandard1.4\\Microsoft.Rest.ClientRuntime.Azure.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18"
     },
     {
       "Package": {
@@ -4729,9 +4729,9 @@
         "Version": "10.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.visualbasic\\10.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualbasic\\10.3.0"
     },
     {
       "Package": {
@@ -4739,9 +4739,9 @@
         "Version": "16.7.30328.74"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\netstandard2.0\\Microsoft.VisualStudio.OLE.Interop.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\netstandard2.0\\Microsoft.VisualStudio.OLE.Interop.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
     },
     {
       "Package": {
@@ -4749,7 +4749,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -4757,9 +4757,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\Microsoft.Win32.Registry.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\Microsoft.Win32.Registry.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.registry\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.registry\\5.0.0"
     },
     {
       "Package": {
@@ -4767,9 +4767,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.registry.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\Microsoft.Win32.Registry.AccessControl.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.registry.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\Microsoft.Win32.Registry.AccessControl.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.registry.accesscontrol\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.registry.accesscontrol\\5.0.0"
     },
     {
       "Package": {
@@ -4777,9 +4777,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0"
     },
     {
       "Package": {
@@ -4787,7 +4787,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.windows.compatibility\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.windows.compatibility\\5.0.0"
     },
     {
       "Package": {
@@ -4795,9 +4795,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.wsman.management\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.WSMan.Management.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.wsman.management\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.WSMan.Management.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.wsman.management\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.wsman.management\\7.1.0"
     },
     {
       "Package": {
@@ -4805,9 +4805,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.WSMan.Runtime.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0\\runtimes\\win\\lib\\net5.0\\Microsoft.WSMan.Runtime.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0"
     },
     {
       "Package": {
@@ -4815,9 +4815,9 @@
         "Version": "1.0.14"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\namotion.reflection\\1.0.14\\lib\\netstandard2.0\\Namotion.Reflection.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\namotion.reflection\\1.0.14\\lib\\netstandard2.0\\Namotion.Reflection.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\namotion.reflection\\1.0.14"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\namotion.reflection\\1.0.14"
     },
     {
       "Package": {
@@ -4825,7 +4825,7 @@
         "Version": "1.6.1"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\netstandard.library\\1.6.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\1.6.1"
     },
     {
       "Package": {
@@ -4833,9 +4833,9 @@
         "Version": "13.0.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\newtonsoft.json\\13.0.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1"
     },
     {
       "Package": {
@@ -4843,9 +4843,9 @@
         "Version": "10.2.2"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\njsonschema\\10.2.2\\lib\\netstandard2.0\\NJsonSchema.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\njsonschema\\10.2.2\\lib\\netstandard2.0\\NJsonSchema.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\njsonschema\\10.2.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\njsonschema\\10.2.2"
     },
     {
       "Package": {
@@ -4853,9 +4853,9 @@
         "Version": "4.5.11"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\nlog\\4.5.11\\lib\\netstandard2.0\\NLog.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\nlog\\4.5.11\\lib\\netstandard2.0\\NLog.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\nlog\\4.5.11"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\nlog\\4.5.11"
     },
     {
       "Package": {
@@ -4863,12 +4863,12 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\npoi\\2.5.5"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\npoi\\2.5.5"
     },
     {
       "Package": {
@@ -4876,9 +4876,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\polly\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\polly\\7.1.0"
     },
     {
       "Package": {
@@ -4886,9 +4886,9 @@
         "Version": "1.8.9"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib\\netstandard2.0\\BouncyCastle.Crypto.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib\\netstandard2.0\\BouncyCastle.Crypto.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\portable.bouncycastle\\1.8.9"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\portable.bouncycastle\\1.8.9"
     },
     {
       "Package": {
@@ -4896,9 +4896,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\lib\\netstandard1.3\\System.Collections.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\lib\\netstandard1.3\\System.Collections.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.collections\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.collections\\4.3.0"
     },
     {
       "Package": {
@@ -4906,9 +4906,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.diagnostics.tools\\4.3.0\\lib\\netstandard1.3\\System.Diagnostics.Tools.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.diagnostics.tools\\4.3.0\\lib\\netstandard1.3\\System.Diagnostics.Tools.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.diagnostics.tools\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.diagnostics.tools\\4.3.0"
     },
     {
       "Package": {
@@ -4916,9 +4916,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0\\lib\\netstandard1.5\\System.Diagnostics.Tracing.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0\\lib\\netstandard1.5\\System.Diagnostics.Tracing.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0"
     },
     {
       "Package": {
@@ -4926,9 +4926,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0\\lib\\netstandard1.3\\System.Globalization.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0\\lib\\netstandard1.3\\System.Globalization.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0"
     },
     {
       "Package": {
@@ -4936,9 +4936,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.globalization.calendars\\4.3.0\\lib\\netstandard1.3\\System.Globalization.Calendars.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.globalization.calendars\\4.3.0\\lib\\netstandard1.3\\System.Globalization.Calendars.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.globalization.calendars\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.globalization.calendars\\4.3.0"
     },
     {
       "Package": {
@@ -4946,9 +4946,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\lib\\netstandard1.5\\System.IO.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\lib\\netstandard1.5\\System.IO.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.io\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.io\\4.3.0"
     },
     {
       "Package": {
@@ -4956,9 +4956,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\lib\\netstandard1.5\\System.Reflection.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\lib\\netstandard1.5\\System.Reflection.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0"
     },
     {
       "Package": {
@@ -4966,9 +4966,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Extensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Extensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -4976,9 +4976,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Primitives.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -4986,9 +4986,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.3.0\\lib\\netstandard1.3\\System.Resources.ResourceManager.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.3.0\\lib\\netstandard1.3\\System.Resources.ResourceManager.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.3.0"
     },
     {
       "Package": {
@@ -4996,9 +4996,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\lib\\netstandard1.5\\System.Runtime.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\lib\\netstandard1.5\\System.Runtime.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0"
     },
     {
       "Package": {
@@ -5006,9 +5006,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Handles.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Handles.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0"
     },
     {
       "Package": {
@@ -5016,9 +5016,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0\\lib\\netstandard1.6\\System.Runtime.InteropServices.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0\\lib\\netstandard1.6\\System.Runtime.InteropServices.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0"
     },
     {
       "Package": {
@@ -5026,9 +5026,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\lib\\netstandard1.3\\System.Text.Encoding.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\lib\\netstandard1.3\\System.Text.Encoding.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0"
     },
     {
       "Package": {
@@ -5036,9 +5036,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.text.encoding.extensions\\4.3.0\\lib\\netstandard1.3\\System.Text.Encoding.Extensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.text.encoding.extensions\\4.3.0\\lib\\netstandard1.3\\System.Text.Encoding.Extensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.text.encoding.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.text.encoding.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -5046,9 +5046,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\lib\\netstandard1.3\\System.Threading.Tasks.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\lib\\netstandard1.3\\System.Threading.Tasks.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0"
     },
     {
       "Package": {
@@ -5056,9 +5056,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.threading.timer\\4.3.0\\lib\\netstandard1.3\\System.Threading.Timer.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.threading.timer\\4.3.0\\lib\\netstandard1.3\\System.Threading.Timer.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.any.system.threading.timer\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.any.system.threading.timer\\4.3.0"
     },
     {
       "Package": {
@@ -5066,7 +5066,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5074,7 +5074,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5082,7 +5082,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5090,7 +5090,7 @@
         "Version": "5.0.0-rtm.20519.4"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
     },
     {
       "Package": {
@@ -5098,7 +5098,7 @@
         "Version": "5.0.0-rtm.20519.4"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
     },
     {
       "Package": {
@@ -5106,7 +5106,7 @@
         "Version": "5.0.0-rtm.20519.4"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
     },
     {
       "Package": {
@@ -5114,9 +5114,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system\\4.3.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system\\4.3.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system\\4.3.0"
     },
     {
       "Package": {
@@ -5124,7 +5124,7 @@
         "Version": "4.7.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0"
     },
     {
       "Package": {
@@ -5132,9 +5132,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0"
     },
     {
       "Package": {
@@ -5142,7 +5142,7 @@
         "Version": "5.0.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.0"
     },
     {
       "Package": {
@@ -5150,9 +5150,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0"
     },
     {
       "Package": {
@@ -5160,9 +5160,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0"
     },
     {
       "Package": {
@@ -5170,9 +5170,9 @@
         "Version": "4.3.2"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.2\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.2\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5180,7 +5180,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5188,7 +5188,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5196,7 +5196,7 @@
         "Version": "5.0.0-rtm.20519.4"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4"
     },
     {
       "Package": {
@@ -5204,7 +5204,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple\\4.3.0"
     },
     {
       "Package": {
@@ -5212,7 +5212,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5220,7 +5220,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5228,7 +5228,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5236,7 +5236,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5244,7 +5244,7 @@
         "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2"
     },
     {
       "Package": {
@@ -5252,7 +5252,7 @@
         "Version": "4.4.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0"
     },
     {
       "Package": {
@@ -5260,7 +5260,7 @@
         "Version": "4.4.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0"
     },
     {
       "Package": {
@@ -5268,7 +5268,7 @@
         "Version": "4.4.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0"
     },
     {
       "Package": {
@@ -5276,9 +5276,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.microsoft.win32.primitives\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\Microsoft.Win32.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.microsoft.win32.primitives\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\Microsoft.Win32.Primitives.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.microsoft.win32.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.microsoft.win32.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -5286,9 +5286,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.console\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Console.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.console\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Console.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.console\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.console\\4.3.0"
     },
     {
       "Package": {
@@ -5296,9 +5296,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Diagnostics.Debug.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Diagnostics.Debug.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.3.0"
     },
     {
       "Package": {
@@ -5306,9 +5306,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.io.filesystem\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.IO.FileSystem.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.io.filesystem\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.IO.FileSystem.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.io.filesystem\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.io.filesystem\\4.3.0"
     },
     {
       "Package": {
@@ -5316,9 +5316,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Net.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Net.Primitives.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -5326,9 +5326,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.net.sockets\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Net.Sockets.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.net.sockets\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Net.Sockets.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.net.sockets\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.net.sockets\\4.3.0"
     },
     {
       "Package": {
@@ -5336,9 +5336,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0\\runtimes\\win\\lib\\netstandard1.5\\System.Runtime.Extensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0\\runtimes\\win\\lib\\netstandard1.5\\System.Runtime.Extensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -5346,7 +5346,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.0"
     },
     {
       "Package": {
@@ -5354,9 +5354,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtimes\\win\\lib\\netstandard1.0\\System.Private.Uri.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtimes\\win\\lib\\netstandard1.0\\System.Private.Uri.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0"
     },
     {
       "Package": {
@@ -5364,9 +5364,9 @@
         "Version": "1.3.3"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\sharpziplib\\1.3.3\\lib\\netstandard2.1\\ICSharpCode.SharpZipLib.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\sharpziplib\\1.3.3\\lib\\netstandard2.1\\ICSharpCode.SharpZipLib.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\sharpziplib\\1.3.3"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\sharpziplib\\1.3.3"
     },
     {
       "Package": {
@@ -5374,9 +5374,9 @@
         "Version": "1.0.0-20230713.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230713.1\\lib\\net5.0-windows7.0\\System.Activities.ViewModels.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230713.1\\lib\\net5.0-windows7.0\\System.Activities.ViewModels.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230713.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230713.1"
     },
     {
       "Package": {
@@ -5384,9 +5384,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.appcontext\\4.3.0\\lib\\netstandard1.6\\System.AppContext.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.appcontext\\4.3.0\\lib\\netstandard1.6\\System.AppContext.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.appcontext\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.appcontext\\4.3.0"
     },
     {
       "Package": {
@@ -5394,9 +5394,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.buffers\\4.3.0\\lib\\netstandard1.1\\System.Buffers.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.buffers\\4.3.0\\lib\\netstandard1.1\\System.Buffers.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.buffers\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.buffers\\4.3.0"
     },
     {
       "Package": {
@@ -5404,9 +5404,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.codedom\\5.0.0\\lib\\netstandard2.0\\System.CodeDom.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.codedom\\5.0.0\\lib\\netstandard2.0\\System.CodeDom.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.codedom\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.codedom\\5.0.0"
     },
     {
       "Package": {
@@ -5414,7 +5414,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.collections\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.collections\\4.3.0"
     },
     {
       "Package": {
@@ -5422,9 +5422,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\lib\\netstandard1.3\\System.Collections.Concurrent.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\lib\\netstandard1.3\\System.Collections.Concurrent.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.collections.concurrent\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.collections.concurrent\\4.3.0"
     },
     {
       "Package": {
@@ -5432,9 +5432,9 @@
         "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.collections.immutable\\6.0.0\\lib\\net6.0\\System.Collections.Immutable.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.collections.immutable\\6.0.0\\lib\\net6.0\\System.Collections.Immutable.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.collections.immutable\\6.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.collections.immutable\\6.0.0"
     },
     {
       "Package": {
@@ -5442,9 +5442,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib\\netcoreapp2.0\\System.ComponentModel.Composition.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib\\netcoreapp2.0\\System.ComponentModel.Composition.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.componentmodel.composition\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.composition\\5.0.0"
     },
     {
       "Package": {
@@ -5452,9 +5452,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib\\netstandard2.1\\System.ComponentModel.Composition.Registration.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib\\netstandard2.1\\System.ComponentModel.Composition.Registration.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0"
     },
     {
       "Package": {
@@ -5462,9 +5462,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\lib\\netstandard2.0\\System.Configuration.ConfigurationManager.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\lib\\netstandard2.0\\System.Configuration.ConfigurationManager.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0"
     },
     {
       "Package": {
@@ -5472,7 +5472,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.console\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.console\\4.3.0"
     },
     {
       "Package": {
@@ -5480,9 +5480,9 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\lib\\netstandard2.0\\System.Data.DataSetExtensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\lib\\netstandard2.0\\System.Data.DataSetExtensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.data.datasetextensions\\4.5.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.data.datasetextensions\\4.5.0"
     },
     {
       "Package": {
@@ -5490,9 +5490,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Data.Odbc.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Data.Odbc.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.data.odbc\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.data.odbc\\5.0.0"
     },
     {
       "Package": {
@@ -5500,9 +5500,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Data.OleDb.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.oledb\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Data.OleDb.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.data.oledb\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.data.oledb\\5.0.0"
     },
     {
       "Package": {
@@ -5510,9 +5510,9 @@
         "Version": "4.8.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes\\win\\lib\\netcoreapp2.1\\System.Data.SqlClient.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.data.sqlclient\\4.8.1\\runtimes\\win\\lib\\netcoreapp2.1\\System.Data.SqlClient.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.data.sqlclient\\4.8.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.data.sqlclient\\4.8.1"
     },
     {
       "Package": {
@@ -5520,7 +5520,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.debug\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.debug\\4.3.0"
     },
     {
       "Package": {
@@ -5528,9 +5528,9 @@
         "Version": "4.6.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\lib\\netstandard1.3\\System.Diagnostics.DiagnosticSource.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\lib\\netstandard1.3\\System.Diagnostics.DiagnosticSource.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0"
     },
     {
       "Package": {
@@ -5538,9 +5538,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Diagnostics.EventLog.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Diagnostics.EventLog.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0"
     },
     {
       "Package": {
@@ -5548,9 +5548,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Diagnostics.PerformanceCounter.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Diagnostics.PerformanceCounter.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0"
     },
     {
       "Package": {
@@ -5558,7 +5558,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.tools\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.tools\\4.3.0"
     },
     {
       "Package": {
@@ -5566,7 +5566,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0"
     },
     {
       "Package": {
@@ -5574,9 +5574,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.DirectoryServices.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.DirectoryServices.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices\\5.0.0"
     },
     {
       "Package": {
@@ -5584,9 +5584,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.DirectoryServices.AccountManagement.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.DirectoryServices.AccountManagement.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices.accountmanagement\\5.0.0"
     },
     {
       "Package": {
@@ -5594,9 +5594,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.DirectoryServices.Protocols.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.DirectoryServices.Protocols.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.directoryservices.protocols\\5.0.0"
     },
     {
       "Package": {
@@ -5604,9 +5604,9 @@
         "Version": "5.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.drawing.common\\5.0.3\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.drawing.common\\5.0.3\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.drawing.common\\5.0.3"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.drawing.common\\5.0.3"
     },
     {
       "Package": {
@@ -5614,9 +5614,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.formats.asn1\\5.0.0\\lib\\netstandard2.0\\System.Formats.Asn1.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.formats.asn1\\5.0.0\\lib\\netstandard2.0\\System.Formats.Asn1.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.formats.asn1\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.formats.asn1\\5.0.0"
     },
     {
       "Package": {
@@ -5624,7 +5624,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.globalization\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.globalization\\4.3.0"
     },
     {
       "Package": {
@@ -5632,7 +5632,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.globalization.calendars\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.globalization.calendars\\4.3.0"
     },
     {
       "Package": {
@@ -5640,9 +5640,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Globalization.Extensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Globalization.Extensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.globalization.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.globalization.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -5650,7 +5650,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io\\4.3.0"
     },
     {
       "Package": {
@@ -5658,9 +5658,9 @@
         "Version": "3.0.10"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\netstandard2.0\\System.IO.Abstractions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib\\netstandard2.0\\System.IO.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.abstractions\\3.0.10"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.abstractions\\3.0.10"
     },
     {
       "Package": {
@@ -5668,9 +5668,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.compression\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.IO.Compression.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.compression\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.IO.Compression.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.compression\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.compression\\4.3.0"
     },
     {
       "Package": {
@@ -5678,9 +5678,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\lib\\netstandard1.3\\System.IO.Compression.ZipFile.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\lib\\netstandard1.3\\System.IO.Compression.ZipFile.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0"
     },
     {
       "Package": {
@@ -5688,7 +5688,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.filesystem\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.filesystem\\4.3.0"
     },
     {
       "Package": {
@@ -5696,9 +5696,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.IO.FileSystem.AccessControl.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.IO.FileSystem.AccessControl.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0"
     },
     {
       "Package": {
@@ -5706,9 +5706,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\lib\\netstandard1.3\\System.IO.FileSystem.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\lib\\netstandard1.3\\System.IO.FileSystem.Primitives.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -5716,9 +5716,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.packaging\\5.0.0\\lib\\netstandard2.0\\System.IO.Packaging.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.packaging\\5.0.0\\lib\\netstandard2.0\\System.IO.Packaging.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.packaging\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.packaging\\5.0.0"
     },
     {
       "Package": {
@@ -5726,9 +5726,9 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib\\netcoreapp3.0\\System.IO.Pipelines.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipelines\\4.7.1\\lib\\netcoreapp3.0\\System.IO.Pipelines.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.pipelines\\4.7.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipelines\\4.7.1"
     },
     {
       "Package": {
@@ -5736,9 +5736,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.pipes.accesscontrol\\5.0.0\\runtimes\\win\\lib\\net5.0\\System.IO.Pipes.AccessControl.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipes.accesscontrol\\5.0.0\\runtimes\\win\\lib\\net5.0\\System.IO.Pipes.AccessControl.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.pipes.accesscontrol\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.pipes.accesscontrol\\5.0.0"
     },
     {
       "Package": {
@@ -5746,9 +5746,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.io.ports\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.IO.Ports.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.io.ports\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.IO.Ports.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.io.ports\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.io.ports\\5.0.0"
     },
     {
       "Package": {
@@ -5756,9 +5756,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.linq\\4.3.0\\lib\\netstandard1.6\\System.Linq.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.linq\\4.3.0\\lib\\netstandard1.6\\System.Linq.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.linq\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.linq\\4.3.0"
     },
     {
       "Package": {
@@ -5766,9 +5766,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.linq.expressions\\4.3.0\\lib\\netstandard1.6\\System.Linq.Expressions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.linq.expressions\\4.3.0\\lib\\netstandard1.6\\System.Linq.Expressions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.linq.expressions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.linq.expressions\\4.3.0"
     },
     {
       "Package": {
@@ -5776,9 +5776,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.management\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Management.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.management\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Management.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.management\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.management\\5.0.0"
     },
     {
       "Package": {
@@ -5786,9 +5786,9 @@
         "Version": "7.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.management.automation\\7.1.0\\runtimes\\win\\lib\\net5.0\\System.Management.Automation.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.management.automation\\7.1.0\\runtimes\\win\\lib\\net5.0\\System.Management.Automation.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.management.automation\\7.1.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.management.automation\\7.1.0"
     },
     {
       "Package": {
@@ -5796,9 +5796,9 @@
         "Version": "4.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.memory\\4.5.5\\lib\\netcoreapp2.1\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.memory\\4.5.5\\lib\\netcoreapp2.1\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.memory\\4.5.5"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.memory\\4.5.5"
     },
     {
       "Package": {
@@ -5806,9 +5806,9 @@
         "Version": "4.3.4"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.net.http\\4.3.4\\runtimes\\win\\lib\\netstandard1.3\\System.Net.Http.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.net.http\\4.3.4\\runtimes\\win\\lib\\netstandard1.3\\System.Net.Http.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.net.http\\4.3.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.net.http\\4.3.4"
     },
     {
       "Package": {
@@ -5816,9 +5816,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Net.Http.WinHttpHandler.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Net.Http.WinHttpHandler.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0"
     },
     {
       "Package": {
@@ -5826,9 +5826,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Net.NameResolution.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Net.NameResolution.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.net.nameresolution\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.net.nameresolution\\4.3.0"
     },
     {
       "Package": {
@@ -5836,7 +5836,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.net.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.net.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -5844,7 +5844,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.net.sockets\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.net.sockets\\4.3.0"
     },
     {
       "Package": {
@@ -5852,9 +5852,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.objectmodel\\4.3.0\\lib\\netstandard1.3\\System.ObjectModel.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.objectmodel\\4.3.0\\lib\\netstandard1.3\\System.ObjectModel.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.objectmodel\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.objectmodel\\4.3.0"
     },
     {
       "Package": {
@@ -5862,9 +5862,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib\\netstandard2.0\\System.Private.ServiceModel.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib\\netstandard2.0\\System.Private.ServiceModel.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.private.servicemodel\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.private.servicemodel\\4.7.0"
     },
     {
       "Package": {
@@ -5872,7 +5872,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.private.uri\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.private.uri\\4.3.0"
     },
     {
       "Package": {
@@ -5880,7 +5880,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection\\4.3.0"
     },
     {
       "Package": {
@@ -5888,9 +5888,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib\\netstandard2.1\\System.Reflection.Context.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib\\netstandard2.1\\System.Reflection.Context.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.context\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.context\\5.0.0"
     },
     {
       "Package": {
@@ -5898,9 +5898,9 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\lib\\netcoreapp2.0\\System.Reflection.DispatchProxy.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\lib\\netcoreapp2.0\\System.Reflection.DispatchProxy.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0"
     },
     {
       "Package": {
@@ -5908,9 +5908,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.emit\\4.7.0\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit\\4.7.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.emit\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit\\4.7.0"
     },
     {
       "Package": {
@@ -5918,9 +5918,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0"
     },
     {
       "Package": {
@@ -5928,9 +5928,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0"
     },
     {
       "Package": {
@@ -5938,7 +5938,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -5946,9 +5946,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\lib\\netstandard2.0\\System.Reflection.Metadata.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\lib\\netstandard2.0\\System.Reflection.Metadata.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.metadata\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.metadata\\5.0.0"
     },
     {
       "Package": {
@@ -5956,7 +5956,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -5964,9 +5964,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\lib\\netstandard1.5\\System.Reflection.TypeExtensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\lib\\netstandard1.5\\System.Reflection.TypeExtensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0"
     },
     {
       "Package": {
@@ -5974,7 +5974,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0"
     },
     {
       "Package": {
@@ -5982,7 +5982,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime\\4.3.0"
     },
     {
       "Package": {
@@ -5990,9 +5990,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.caching\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.caching\\5.0.0"
     },
     {
       "Package": {
@@ -6000,9 +6000,9 @@
         "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\lib\\net6.0\\System.Runtime.CompilerServices.Unsafe.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\lib\\net6.0\\System.Runtime.CompilerServices.Unsafe.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0"
     },
     {
       "Package": {
@@ -6010,7 +6010,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -6018,7 +6018,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.handles\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.handles\\4.3.0"
     },
     {
       "Package": {
@@ -6026,7 +6026,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.interopservices\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.interopservices\\4.3.0"
     },
     {
       "Package": {
@@ -6034,9 +6034,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\runtimes\\win\\lib\\netstandard1.1\\System.Runtime.InteropServices.RuntimeInformation.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\runtimes\\win\\lib\\netstandard1.1\\System.Runtime.InteropServices.RuntimeInformation.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0"
     },
     {
       "Package": {
@@ -6044,9 +6044,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Numerics.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\lib\\netstandard1.3\\System.Runtime.Numerics.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.runtime.numerics\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.runtime.numerics\\4.3.0"
     },
     {
       "Package": {
@@ -6054,9 +6054,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Security.AccessControl.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Security.AccessControl.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.accesscontrol\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.accesscontrol\\5.0.0"
     },
     {
       "Package": {
@@ -6064,9 +6064,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\runtimes\\win\\lib\\netstandard1.6\\System.Security.Cryptography.Algorithms.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\runtimes\\win\\lib\\netstandard1.6\\System.Security.Cryptography.Algorithms.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0"
     },
     {
       "Package": {
@@ -6074,9 +6074,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Security.Cryptography.Cng.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Security.Cryptography.Cng.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0"
     },
     {
       "Package": {
@@ -6084,9 +6084,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Security.Cryptography.Csp.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Security.Cryptography.Csp.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0"
     },
     {
       "Package": {
@@ -6094,9 +6094,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Security.Cryptography.Encoding.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Security.Cryptography.Encoding.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0"
     },
     {
       "Package": {
@@ -6104,9 +6104,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\lib\\netstandard1.6\\System.Security.Cryptography.OpenSsl.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\lib\\netstandard1.6\\System.Security.Cryptography.OpenSsl.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0"
     },
     {
       "Package": {
@@ -6114,9 +6114,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Security.Cryptography.Pkcs.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Security.Cryptography.Pkcs.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0"
     },
     {
       "Package": {
@@ -6124,9 +6124,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\lib\\netstandard1.3\\System.Security.Cryptography.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\lib\\netstandard1.3\\System.Security.Cryptography.Primitives.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0"
     },
     {
       "Package": {
@@ -6134,9 +6134,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0"
     },
     {
       "Package": {
@@ -6144,9 +6144,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\runtimes\\win\\lib\\netstandard1.6\\System.Security.Cryptography.X509Certificates.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\runtimes\\win\\lib\\netstandard1.6\\System.Security.Cryptography.X509Certificates.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0"
     },
     {
       "Package": {
@@ -6154,9 +6154,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.xml\\5.0.0\\lib\\netstandard2.0\\System.Security.Cryptography.Xml.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.xml\\5.0.0\\lib\\netstandard2.0\\System.Security.Cryptography.Xml.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.cryptography.xml\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.cryptography.xml\\5.0.0"
     },
     {
       "Package": {
@@ -6164,9 +6164,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.permissions\\5.0.0\\lib\\net5.0\\System.Security.Permissions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.permissions\\5.0.0\\lib\\net5.0\\System.Security.Permissions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.permissions\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.permissions\\5.0.0"
     },
     {
       "Package": {
@@ -6174,9 +6174,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.1\\System.Security.Principal.Windows.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.1\\System.Security.Principal.Windows.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.security.principal.windows\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.security.principal.windows\\5.0.0"
     },
     {
       "Package": {
@@ -6184,9 +6184,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.Duplex.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.Duplex.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0"
     },
     {
       "Package": {
@@ -6194,9 +6194,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.Http.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.Http.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.http\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.http\\4.7.0"
     },
     {
       "Package": {
@@ -6204,9 +6204,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.NetTcp.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.NetTcp.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0"
     },
     {
       "Package": {
@@ -6214,10 +6214,10 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0"
     },
     {
       "Package": {
@@ -6225,9 +6225,9 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.Security.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib\\netstandard2.0\\System.ServiceModel.Security.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.security\\4.7.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.security\\4.7.0"
     },
     {
       "Package": {
@@ -6235,9 +6235,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib\\netstandard2.0\\System.ServiceModel.Syndication.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib\\netstandard2.0\\System.ServiceModel.Syndication.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0"
     },
     {
       "Package": {
@@ -6245,9 +6245,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.ServiceProcess.ServiceController.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.ServiceProcess.ServiceController.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0"
     },
     {
       "Package": {
@@ -6255,7 +6255,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.text.encoding\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.text.encoding\\4.3.0"
     },
     {
       "Package": {
@@ -6263,9 +6263,9 @@
         "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Text.Encoding.CodePages.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Text.Encoding.CodePages.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0"
     },
     {
       "Package": {
@@ -6273,7 +6273,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0"
     },
     {
       "Package": {
@@ -6281,9 +6281,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\lib\\netcoreapp3.0\\System.Text.Encodings.Web.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\lib\\netcoreapp3.0\\System.Text.Encodings.Web.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.text.encodings.web\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.text.encodings.web\\5.0.0"
     },
     {
       "Package": {
@@ -6291,9 +6291,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.text.regularexpressions\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.text.regularexpressions\\4.3.0"
     },
     {
       "Package": {
@@ -6301,9 +6301,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.threading\\4.3.0\\lib\\netstandard1.3\\System.Threading.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.threading\\4.3.0\\lib\\netstandard1.3\\System.Threading.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading\\4.3.0"
     },
     {
       "Package": {
@@ -6311,9 +6311,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.threading.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Threading.AccessControl.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.threading.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Threading.AccessControl.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.accesscontrol\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.accesscontrol\\5.0.0"
     },
     {
       "Package": {
@@ -6321,9 +6321,9 @@
         "Version": "4.7.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.threading.channels\\4.7.1\\lib\\netcoreapp3.0\\System.Threading.Channels.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.threading.channels\\4.7.1\\lib\\netcoreapp3.0\\System.Threading.Channels.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.channels\\4.7.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.channels\\4.7.1"
     },
     {
       "Package": {
@@ -6331,9 +6331,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.threading.overlapped\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Threading.Overlapped.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.threading.overlapped\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Threading.Overlapped.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.overlapped\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.overlapped\\4.3.0"
     },
     {
       "Package": {
@@ -6341,7 +6341,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.tasks\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.tasks\\4.3.0"
     },
     {
       "Package": {
@@ -6349,9 +6349,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
     },
     {
       "Package": {
@@ -6359,9 +6359,9 @@
         "Version": "4.5.4"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib\\netcoreapp2.1\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\lib\\netcoreapp2.1\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4"
     },
     {
       "Package": {
@@ -6369,7 +6369,7 @@
         "Version": "4.3.0"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.threading.timer\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.threading.timer\\4.3.0"
     },
     {
       "Package": {
@@ -6377,9 +6377,9 @@
         "Version": "4.5.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\netcoreapp2.0\\_._"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.valuetuple\\4.5.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.valuetuple\\4.5.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.valuetuple\\4.5.0"
     },
     {
       "Package": {
@@ -6387,9 +6387,9 @@
         "Version": "5.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.windows.extensions\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.windows.extensions\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.windows.extensions\\5.0.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.windows.extensions\\5.0.0"
     },
     {
       "Package": {
@@ -6397,9 +6397,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\lib\\netstandard1.3\\System.Xml.ReaderWriter.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\lib\\netstandard1.3\\System.Xml.ReaderWriter.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.xml.readerwriter\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.xml.readerwriter\\4.3.0"
     },
     {
       "Package": {
@@ -6407,9 +6407,9 @@
         "Version": "4.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\lib\\netstandard1.3\\System.Xml.XDocument.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\lib\\netstandard1.3\\System.Xml.XDocument.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\system.xml.xdocument\\4.3.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\system.xml.xdocument\\4.3.0"
     },
     {
       "Package": {
@@ -6417,9 +6417,9 @@
         "Version": "23.6.60.46509-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath\\23.6.60.46509-preview\\lib\\net6.0-windows7.0\\UiPath.Interop.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath\\23.6.60.46509-preview\\lib\\net6.0-windows7.0\\UiPath.Interop.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath\\23.6.60.46509-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath\\23.6.60.46509-preview"
     },
     {
       "Package": {
@@ -6427,9 +6427,9 @@
         "Version": "1.1.6"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib\\net5.0-windows7.0\\UiPath.Activities.RuntimeGovernance.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib\\net5.0-windows7.0\\UiPath.Activities.RuntimeGovernance.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6"
     },
     {
       "Package": {
@@ -6437,9 +6437,9 @@
         "Version": "23.6.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib\\net6.0-windows7.0\\UiPath.CodedWorkflows.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview\\lib\\net6.0-windows7.0\\UiPath.CodedWorkflows.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.codedworkflows\\23.6.0-preview"
     },
     {
       "Package": {
@@ -6447,15 +6447,15 @@
         "Version": "2.22.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\Microsoft.Office.Interop.Excel.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\Microsoft.Vbe.Interop.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\Office.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\Office.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.excel.activities\\2.22.0-preview"
     },
     {
       "Package": {
@@ -6463,9 +6463,9 @@
         "Version": "23.4.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.ImageProcessingInterop.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib\\net6.0-windows7.0\\UiPath.ImageProcessingInterop.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.imageprocessing\\23.4.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.imageprocessing\\23.4.0"
     },
     {
       "Package": {
@@ -6473,11 +6473,11 @@
         "Version": "3.16.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Core.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Core.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.activities\\3.16.1-preview"
     },
     {
       "Package": {
@@ -6485,9 +6485,9 @@
         "Version": "2.14.0"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0\\lib\\net6.0-windows7.0\\UiPath.OCR.Contracts.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0\\lib\\net6.0-windows7.0\\UiPath.OCR.Contracts.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.ocr.contracts\\2.14.0"
     },
     {
       "Package": {
@@ -6495,9 +6495,9 @@
         "Version": "23.8.0-alpha.4168429"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib\\net6.0-windows7.0\\UiPath.Platform.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429\\lib\\net6.0-windows7.0\\UiPath.Platform.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.platform\\23.8.0-alpha.4168429"
     },
     {
       "Package": {
@@ -6505,10 +6505,10 @@
         "Version": "23.8.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.ViewModels.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.ViewModels.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities\\23.8.1-preview"
     },
     {
       "Package": {
@@ -6516,11 +6516,11 @@
         "Version": "23.8.1-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.OrchestratorClient.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Api.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Api.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview\\lib\\net6.0-windows7.0\\UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.8.1-preview"
     },
     {
       "Package": {
@@ -6528,9 +6528,9 @@
         "Version": "1.5.3"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib\\netstandard2.0\\TelemetryClient.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\lib\\netstandard2.0\\TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.telemetry.client\\1.5.3"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.telemetry.client\\1.5.3"
     },
     {
       "Package": {
@@ -6538,13 +6538,13 @@
         "Version": "23.8.0-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Api.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Api.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview\\lib\\net6.0-windows7.0\\UiPath.Testing.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.testing.activities\\23.8.0-preview"
     },
     {
       "Package": {
@@ -6552,14 +6552,14 @@
         "Version": "23.6.2-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.Wizards.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.Contracts.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Design.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.Wizards.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities\\23.6.2-preview"
     },
     {
       "Package": {
@@ -6567,17 +6567,17 @@
         "Version": "23.6.2-preview"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.6.2-preview"
     },
     {
       "Package": {
@@ -6585,13 +6585,13 @@
         "Version": "3.10.1"
       },
       "Assemblies": [
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
-      "Path": "C:\\Users\\stass\\.nuget\\packages\\uipath.vision\\3.10.1"
+      "Path": "C:\\Users\\Acer\\.nuget\\packages\\uipath.vision\\3.10.1"
     }
   ]
 }

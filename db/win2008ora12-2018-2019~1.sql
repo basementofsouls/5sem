@@ -192,15 +192,43 @@ CREATE OR REPLACE FUNCTION GetHierarchyTree RETURN SYS_REFCURSOR IS
   l_cursor SYS_REFCURSOR;
 BEGIN
   OPEN l_cursor FOR
-  SELECT point_id, city, country, point_name, hierarchy_path
+  SELECT point_id, city, country, point_name, LEVEL as point_level
   FROM Points
-  START WITH SUBSTR(hierarchy_path, 1, INSTR(hierarchy_path, '/', 1, 1) - 1) IS NULL
-  CONNECT BY PRIOR point_id = point_id
+  START WITH hierarchy_path = '/'
+  CONNECT BY PRIOR point_id = PRIOR dbms_random.value
   ORDER SIBLINGS BY point_name;
 
   RETURN l_cursor;
 END GetHierarchyTree;
 /
+
+
+
+SET SERVEROUTPUT ON;
+
+DECLARE
+  l_result SYS_REFCURSOR;
+  l_point_id Points.point_id%TYPE;
+  l_city Points.city%TYPE;
+  l_country Points.country%TYPE;
+  l_point_name Points.point_name%TYPE;
+  l_point_level NUMBER;
+BEGIN
+  l_result := GetHierarchyTree;
+
+  LOOP
+    FETCH l_result INTO l_point_id, l_city, l_country, l_point_name, l_point_level;
+    EXIT WHEN l_result%NOTFOUND;
+
+    DBMS_OUTPUT.PUT_LINE('Point ID: ' || l_point_id || ', City: ' || l_city || ', Country: ' || l_country || ', Point Name: ' || l_point_name || ', Level: ' || l_point_level);
+  END LOOP;
+
+  CLOSE l_result;
+END;
+/
+
+
+
 
 
 
@@ -222,6 +250,25 @@ BEGIN
 END AddNode;
 /
 
+INSERT INTO Points (city, country, point_name, hierarchy_path)
+VALUES ('City A', 'Country A', 'Root', '/Root');
+-- Создаем блок PL/SQL для вызова процедуры
+BEGIN
+
+  -- Добавляем дочерние узлы к корневому узлу
+  AddNode('City B', 'Country A', 'Child 1', 1);
+  AddNode('City C', 'Country A', 'Child 2', 1);
+
+  -- Добавляем подчиненные узлы для Child 1
+  AddNode('City D', 'Country A', 'Grandchild 1', 2);
+  AddNode('City E', 'Country A', 'Grandchild 2', 2);
+
+  -- Добавляем подчиненные узлы для Child 2
+  AddNode('City F', 'Country A', 'Grandchild 3', 3);
+END;
+/
+
+SELECT * from Points;
 
 
 ----Перемещение узла в другое место иерархии

@@ -21084,15 +21084,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stass\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "HelloFromLibrary",
       "projectName": "HelloFromLibrary",
-      "projectPath": "C:\\Users\\stass\\Desktop\\РПР\\4lab\\HelloFromLibrary\\.local",
-      "packagesPath": "C:\\Users\\stass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stass\\Desktop\\РПР\\4lab\\HelloFromLibrary\\.local"
+      "projectPath": "E:\\лабы\\РПР\\4lab\\HelloFromLibrary\\.local",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "E:\\лабы\\РПР\\4lab\\HelloFromLibrary\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -21128,7 +21128,7 @@
             "version": "[23.6.2-preview, 23.6.2-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\stass\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Acer\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {

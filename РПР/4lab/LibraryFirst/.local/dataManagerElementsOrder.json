@@ -14,7 +14,9 @@
       "VariablesSectionElementsOrder": [
         "DtTable&Sequence_1"
       ],
-      "ArgumentsSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": [
+        "in_CurDir"
+      ],
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
     }
